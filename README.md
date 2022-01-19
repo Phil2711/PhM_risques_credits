@@ -10,3 +10,4 @@ Ce dépot contient les fichiers du projet :
 
 Les fichiers sont les suivants :
 
+  * Kernel Kaggle en support : lightgbm_with_simple_features.py
